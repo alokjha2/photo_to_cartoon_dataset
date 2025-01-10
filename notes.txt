@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "build: Added aaj_tak_so_sorry thumbnails"
+git branch -M main
+git remote add origin https://github.com/alokjha2/photo_to_cartoon_dataset.git
+git push -u origin main
